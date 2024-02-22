@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+F:\Cursos-Carrera\Programacion\Generation\Bootcamp java full stack\CH36\Tareas\28\SA-LPD8 - Arrays\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3337542201.index
+3413725848.index
